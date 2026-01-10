@@ -9,73 +9,76 @@ Solutions are under: [Challenges](./Challenges)
 ## Progress Checklist
 
 ### Part 1 — (Basics)
-- [x] InstallingVisualStudio
-- [ ] HelloWorld
-  - [ ] HelloWorld
-  - [ ] TheMakingsOfAProgrammer
-  - [ ] WhatComesNext 
-- [ ] Comments
-  - [ ] TheThingNamer3000
-- [ ] TheCSharpTypeSystem
-  - [ ] TheVariableShop
-  - [ ] TheVariableShopReturns 
-- [ ] Math
-  - [ ] TheDominionOfKings
-  - [ ] TheFourSistersAndTheDuckbear
-  - [ ] TheTriangleFarmer
-- [ ] Console2.0
-  - [ ] TheDefenseOfConsolas
-- [ ] DecisionMaking
-  - [ ] RepairingTheClocktower
-  - [ ] Watchtower
-- [ ] Switches
-  - [ ] BuyingInventory
-  - [ ] DiscountedInventory
-- [ ] Loops
-  - [ ] TheMagicCannon
-  - [ ] ThePrototype
-- [ ] Arrays
-  - [ ] ReplicatorOfDTo
-  - [ ] TheLawsOfFreach
-- [ ] Methods
-  - [ ] Countdown
-  - [ ] TakingANumber
-- [ ] MemoryManagement
-  - [ ] HuntingTheManticore
+- [x] InstallingVisualStudio → [Folder](./Challenges/Part1-TheBasics/InstallingVisualStudio)
+- [ ] HelloWorld → [Folder](./Challenges/Part1-TheBasics/HelloWorld)
+  - [ ] HelloWorld → [Folder](./Challenges/Part1-TheBasics/HelloWorld/HelloWorld)
+  - [ ] TheMakingsOfAProgrammer → [Folder](./Challenges/Part1-TheBasics/HelloWorld/TheMakingsOfAProgrammer)
+  - [ ] WhatComesNext → [Folder](./Challenges/Part1-TheBasics/HelloWorld/WhatComesNext)
+- [ ] Comments → [Folder](./Challenges/Part1-TheBasics/Comments)
+  - [ ] TheThingNamer3000 → [Folder](./Challenges/Part1-TheBasics/Comments/TheThingNamer3000)
+- [ ] TheCSharpTypeSystem → [Folder](./Challenges/Part1-TheBasics/TheCSharpTypeSystem)
+  - [ ] TheVariableShop → [Folder](./Challenges/Part1-TheBasics/TheCSharpTypeSystem/TheVariableShop)
+  - [ ] TheVariableShopReturns → [Folder](./Challenges/Part1-TheBasics/TheCSharpTypeSystem/TheVariableShopReturns)
+- [ ] Math → [Folder](./Challenges/Part1-TheBasics/Math)
+  - [ ] TheDominionOfKings → [Folder](./Challenges/Part1-TheBasics/Math/TheDominionOfKings)
+  - [ ] TheFourSistersAndTheDuckbear → [Folder](./Challenges/Part1-TheBasics/Math/TheFourSistersAndTheDuckbear)
+  - [ ] TheTriangleFarmer → [Folder](./Challenges/Part1-TheBasics/Math/TheTriangleFarmer)
+- [ ] Console2.0 → [Folder](./Challenges/Part1-TheBasics/Console2.0)
+  - [ ] TheDefenseOfConsolas → [Folder](./Challenges/Part1-TheBasics/Console2.0/TheDefenseOfConsolas)
+- [ ] DecisionMaking → [Folder](./Challenges/Part1-TheBasics/DecisionMaking)
+  - [ ] RepairingTheClocktower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/RepairingTheClocktower)
+  - [ ] Watchtower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/Watchtower)
+- [ ] Switches → [Folder](./Challenges/Part1-TheBasics/Switches)
+  - [ ] BuyingInventory → [Folder](./Challenges/Part1-TheBasics/Switches/BuyingInventory)
+  - [ ] DiscountedInventory → [Folder](./Challenges/Part1-TheBasics/Switches/DiscountedInventory)
+- [ ] Loops → [Folder](./Challenges/Part1-TheBasics/Loops)
+  - [ ] TheMagicCannon → [Folder](./Challenges/Part1-TheBasics/Loops/TheMagicCannon)
+  - [ ] ThePrototype → [Folder](./Challenges/Part1-TheBasics/Loops/ThePrototype)
+- [ ] Arrays → [Folder](./Challenges/Part1-TheBasics/Arrays)
+  - [ ] ReplicatorOfDTo → [Folder](./Challenges/Part1-TheBasics/Arrays/ReplicatorOfDTo)
+  - [ ] TheLawsOfFreach → [Folder](./Challenges/Part1-TheBasics/Arrays/TheLawsOfFreach)
+- [ ] Methods → [Folder](./Challenges/Part1-TheBasics/Methods)
+  - [ ] Countdown → [Folder](./Challenges/Part1-TheBasics/Methods/Countdown)
+  - [ ] TakingANumber → [Folder](./Challenges/Part1-TheBasics/Methods/TakingANumber)
+- [ ] MemoryManagement → [Folder](./Challenges/Part1-TheBasics/MemoryManagement)
+  - [ ] HuntingTheManticore → [Folder](./Challenges/Part1-TheBasics/MemoryManagement/HuntingTheManticore)
+
 ### Part 2 — (Object-Oriented Programming)
-- [ ] Enumerations
-- [ ] Tuples
-- [ ] Classes
-- [ ] InformationHiding
-- [ ] Properties
-- [ ] Static
-- [ ] CatacombsOfTheClass
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Interfaces
-- [ ] Structs
-- [ ] Records
-- [ ] GenericTypes
-- [ ] TheFountainOfObjects
-- [ ] SomeUsefulTypes
+- [ ] Enumerations → [Folder](./Challenges/Part2-OOP/Enumerations)
+- [ ] Tuples → [Folder](./Challenges/Part2-OOP/Tuples)
+- [ ] Classes → [Folder](./Challenges/Part2-OOP/Classes)
+- [ ] InformationHiding → [Folder](./Challenges/Part2-OOP/InformationHiding)
+- [ ] Properties → [Folder](./Challenges/Part2-OOP/Properties)
+- [ ] Static → [Folder](./Challenges/Part2-OOP/Static)
+- [ ] CatacombsOfTheClass → [Folder](./Challenges/Part2-OOP/CatacombsOfTheClass)
+- [ ] Inheritance → [Folder](./Challenges/Part2-OOP/Inheritance)
+- [ ] Polymorphism → [Folder](./Challenges/Part2-OOP/Polymorphism)
+- [ ] Interfaces → [Folder](./Challenges/Part2-OOP/Interfaces)
+- [ ] Structs → [Folder](./Challenges/Part2-OOP/Structs)
+- [ ] Records → [Folder](./Challenges/Part2-OOP/Records)
+- [ ] GenericTypes → [Folder](./Challenges/Part2-OOP/GenericTypes)
+- [ ] TheFountainOfObjects → [Folder](./Challenges/Part2-OOP/TheFountainOfObjects)
+- [ ] SomeUsefulTypes → [Folder](./Challenges/Part2-OOP/SomeUsefulTypes)
+
 ### Part 3 — (Advanced Topics)
-- [ ] ManagingLargerPrograms
-- [ ] MethodsRevisited
-- [ ] Exceptions
-- [ ] Delegates
-- [ ] Events
-- [ ] LambdaExpressions
-- [ ] Files
-- [ ] Patterns
-- [ ] OperatorOverloading
-- [ ] QueryExpressions
-- [ ] Threads
-- [ ] AsynchronousProgramming
-- [ ] DynamicObjects
-- [ ] BeyondASingleProject
-- [ ] Publishing
+- [ ] ManagingLargerPrograms → [Folder](./Challenges/Part3-AdvancedTopics/ManagingLargerPrograms)
+- [ ] MethodsRevisited → [Folder](./Challenges/Part3-AdvancedTopics/MethodsRevisited)
+- [ ] Exceptions → [Folder](./Challenges/Part3-AdvancedTopics/Exceptions)
+- [ ] Delegates → [Folder](./Challenges/Part3-AdvancedTopics/Delegates)
+- [ ] Events → [Folder](./Challenges/Part3-AdvancedTopics/Events)
+- [ ] LambdaExpressions → [Folder](./Challenges/Part3-AdvancedTopics/LambdaExpressions)
+- [ ] Files → [Folder](./Challenges/Part3-AdvancedTopics/Files)
+- [ ] Patterns → [Folder](./Challenges/Part3-AdvancedTopics/Patterns)
+- [ ] OperatorOverloading → [Folder](./Challenges/Part3-AdvancedTopics/OperatorOverloading)
+- [ ] QueryExpressions → [Folder](./Challenges/Part3-AdvancedTopics/QueryExpressions)
+- [ ] Threads → [Folder](./Challenges/Part3-AdvancedTopics/Threads)
+- [ ] AsynchronousProgramming → [Folder](./Challenges/Part3-AdvancedTopics/AsynchronousProgramming)
+- [ ] DynamicObjects → [Folder](./Challenges/Part3-AdvancedTopics/DynamicObjects)
+- [ ] BeyondASingleProject → [Folder](./Challenges/Part3-AdvancedTopics/BeyondASingleProject)
+- [ ] Publishing → [Folder](./Challenges/Part3-AdvancedTopics/Publishing)
+
 ### Part 4 — (The Endgame)
-- [ ] TheFinalBattle
+- [ ] TheFinalBattle → [Folder](./Challenges/Part4-TheEndgame/TheFinalBattle)
 
 ---
 
