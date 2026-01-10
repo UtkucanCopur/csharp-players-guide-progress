@@ -1,6 +1,6 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Level X — (Topic)  
+**Current position:** Part 1 — (HelloWorld)  
 **Last update:** 2026-01-10  
 Solutions are under: [Challenges](./Challenges)
 
@@ -77,12 +77,7 @@ Solutions are under: [Challenges](./Challenges)
 ### Part 4 — (The Endgame)
 - [ ] TheFinalBattle
 
-### Level 2 — (Name)
-- [ ] Read
-- [ ] Knowledge Check
-- [ ] Challenge: (Name) → [Solution](./Challenges/L02_Name)
-
 ---
 
-## Notes (short)
+## Notes
 - (add quick bullets here)
