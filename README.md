@@ -9,7 +9,7 @@ Solutions are under: [Challenges](./Challenges)
 ## Progress Checklist
 
 ### Level 1 — (Name)
-- [ ] Read
+- [x] Read
 - [ ] Knowledge Check
 
 ### Level 2 — (Name)
