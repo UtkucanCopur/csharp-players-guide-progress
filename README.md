@@ -1,7 +1,7 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Part 1 — (HelloWorld)  
-**Last update:** 2026-01-10  
+**Current position:** Part 1 — (Switches)  
+**Last update:** 2026-01-11  
 Solutions are under: [Challenges](./Challenges)
 
 ---
@@ -23,13 +23,13 @@ Solutions are under: [Challenges](./Challenges)
   - [x] TheDominionOfKings → [Folder](./Challenges/Part1-TheBasics/Math/TheDominionOfKings)
   - [x] TheFourSistersAndTheDuckbear → [Folder](./Challenges/Part1-TheBasics/Math/TheFourSistersAndTheDuckbear)
   - [x] TheTriangleFarmer → [Folder](./Challenges/Part1-TheBasics/Math/TheTriangleFarmer)
-- [ ] Console2.0 → [Folder](./Challenges/Part1-TheBasics/Console2.0)
-  - [ ] TheDefenseOfConsolas → [Folder](./Challenges/Part1-TheBasics/Console2.0/TheDefenseOfConsolas)
-- [ ] DecisionMaking → [Folder](./Challenges/Part1-TheBasics/DecisionMaking)
-  - [ ] RepairingTheClocktower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/RepairingTheClocktower)
-  - [ ] Watchtower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/Watchtower)
+- [x] Console2.0 → [Folder](./Challenges/Part1-TheBasics/Console2.0)
+  - [x] TheDefenseOfConsolas → [Folder](./Challenges/Part1-TheBasics/Console2.0/TheDefenseOfConsolas)
+- [x] DecisionMaking → [Folder](./Challenges/Part1-TheBasics/DecisionMaking)
+  - [x] RepairingTheClocktower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/RepairingTheClocktower)
+  - [x] Watchtower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/Watchtower)
 - [ ] Switches → [Folder](./Challenges/Part1-TheBasics/Switches)
-  - [ ] BuyingInventory → [Folder](./Challenges/Part1-TheBasics/Switches/BuyingInventory)
+  - [x] BuyingInventory → [Folder](./Challenges/Part1-TheBasics/Switches/BuyingInventory)
   - [ ] DiscountedInventory → [Folder](./Challenges/Part1-TheBasics/Switches/DiscountedInventory)
 - [ ] Loops → [Folder](./Challenges/Part1-TheBasics/Loops)
   - [ ] TheMagicCannon → [Folder](./Challenges/Part1-TheBasics/Loops/TheMagicCannon)
