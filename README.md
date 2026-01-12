@@ -1,7 +1,7 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Part 1 — (Switches)  
-**Last update:** 2026-01-11  
+**Current position:** Part 1 — (Loops)  
+**Last update:** 2026-01-12  
 Solutions are under: [Challenges](./Challenges)
 
 ---
@@ -28,9 +28,9 @@ Solutions are under: [Challenges](./Challenges)
 - [x] DecisionMaking → [Folder](./Challenges/Part1-TheBasics/DecisionMaking)
   - [x] RepairingTheClocktower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/RepairingTheClocktower)
   - [x] Watchtower → [Folder](./Challenges/Part1-TheBasics/DecisionMaking/Watchtower)
-- [ ] Switches → [Folder](./Challenges/Part1-TheBasics/Switches)
+- [x] Switches → [Folder](./Challenges/Part1-TheBasics/Switches)
   - [x] BuyingInventory → [Folder](./Challenges/Part1-TheBasics/Switches/BuyingInventory)
-  - [ ] DiscountedInventory → [Folder](./Challenges/Part1-TheBasics/Switches/DiscountedInventory)
+  - [x] DiscountedInventory → [Folder](./Challenges/Part1-TheBasics/Switches/DiscountedInventory)
 - [ ] Loops → [Folder](./Challenges/Part1-TheBasics/Loops)
   - [ ] TheMagicCannon → [Folder](./Challenges/Part1-TheBasics/Loops/TheMagicCannon)
   - [ ] ThePrototype → [Folder](./Challenges/Part1-TheBasics/Loops/ThePrototype)
