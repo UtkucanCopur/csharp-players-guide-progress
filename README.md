@@ -1,7 +1,7 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Part 1 — (Loops)  
-**Last update:** 2026-01-12  
+**Current position:** Part 1 — (Arrays)  
+**Last update:** 2026-01-13  
 Solutions are under: [Challenges](./Challenges)
 
 ---
@@ -31,9 +31,9 @@ Solutions are under: [Challenges](./Challenges)
 - [x] Switches → [Folder](./Challenges/Part1-TheBasics/Switches)
   - [x] BuyingInventory → [Folder](./Challenges/Part1-TheBasics/Switches/BuyingInventory)
   - [x] DiscountedInventory → [Folder](./Challenges/Part1-TheBasics/Switches/DiscountedInventory)
-- [ ] Loops → [Folder](./Challenges/Part1-TheBasics/Loops)
-  - [ ] TheMagicCannon → [Folder](./Challenges/Part1-TheBasics/Loops/TheMagicCannon)
-  - [ ] ThePrototype → [Folder](./Challenges/Part1-TheBasics/Loops/ThePrototype)
+- [x] Loops → [Folder](./Challenges/Part1-TheBasics/Loops)
+  - [x] TheMagicCannon → [Folder](./Challenges/Part1-TheBasics/Loops/TheMagicCannon)
+  - [x] ThePrototype → [Folder](./Challenges/Part1-TheBasics/Loops/ThePrototype)
 - [ ] Arrays → [Folder](./Challenges/Part1-TheBasics/Arrays)
   - [ ] ReplicatorOfDTo → [Folder](./Challenges/Part1-TheBasics/Arrays/ReplicatorOfDTo)
   - [ ] TheLawsOfFreach → [Folder](./Challenges/Part1-TheBasics/Arrays/TheLawsOfFreach)
