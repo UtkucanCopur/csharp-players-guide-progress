@@ -1,7 +1,7 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Part 1 — (Arrays)  
-**Last update:** 2026-01-13  
+**Current position:** Part 1 — (Methods)  
+**Last update:** 2026-01-14  
 Solutions are under: [Challenges](./Challenges)
 
 ---
@@ -34,9 +34,9 @@ Solutions are under: [Challenges](./Challenges)
 - [x] Loops → [Folder](./Challenges/Part1-TheBasics/Loops)
   - [x] TheMagicCannon → [Folder](./Challenges/Part1-TheBasics/Loops/TheMagicCannon)
   - [x] ThePrototype → [Folder](./Challenges/Part1-TheBasics/Loops/ThePrototype)
-- [ ] Arrays → [Folder](./Challenges/Part1-TheBasics/Arrays)
-  - [ ] ReplicatorOfDTo → [Folder](./Challenges/Part1-TheBasics/Arrays/ReplicatorOfDTo)
-  - [ ] TheLawsOfFreach → [Folder](./Challenges/Part1-TheBasics/Arrays/TheLawsOfFreach)
+- [x] Arrays → [Folder](./Challenges/Part1-TheBasics/Arrays)
+  - [x] ReplicatorOfDTo → [Folder](./Challenges/Part1-TheBasics/Arrays/ReplicatorOfDTo)
+  - [x] TheLawsOfFreach → [Folder](./Challenges/Part1-TheBasics/Arrays/TheLawsOfFreach)
 - [ ] Methods → [Folder](./Challenges/Part1-TheBasics/Methods)
   - [ ] Countdown → [Folder](./Challenges/Part1-TheBasics/Methods/Countdown)
   - [ ] TakingANumber → [Folder](./Challenges/Part1-TheBasics/Methods/TakingANumber)
