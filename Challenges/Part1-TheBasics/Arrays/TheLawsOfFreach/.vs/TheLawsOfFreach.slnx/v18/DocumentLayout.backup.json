@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utkuc\\Masa\u00FCst\u00FC\\csharp-players-guide-progress\\Challenges\\Part1-TheBasics\\Arrays\\TheLawsOfFreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84D22AC-4C58-442B-AF41-9D0B257A68ED}|TheLawsOfFreach.csproj|c:\\users\\utkuc\\masa\u00FCst\u00FC\\csharp-players-guide-progress\\challenges\\part1-thebasics\\arrays\\thelawsoffreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84D22AC-4C58-442B-AF41-9D0B257A68ED}|TheLawsOfFreach.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utkuc\\Masa\u00FCst\u00FC\\csharp-players-guide-progress\\Challenges\\Part1-TheBasics\\Arrays\\TheLawsOfFreach\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utkuc\\Masa\u00FCst\u00FC\\csharp-players-guide-progress\\Challenges\\Part1-TheBasics\\Arrays\\TheLawsOfFreach\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:17:46.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
