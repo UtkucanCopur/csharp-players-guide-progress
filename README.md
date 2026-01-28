@@ -1,7 +1,7 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Part 1 — (Methods)  
-**Last update:** 2026-01-14  
+**Current position:** Part 2 — (Enumerations)  
+**Last update:** 2026-01-26  
 Solutions are under: [Challenges](./Challenges)
 
 ---
@@ -37,11 +37,11 @@ Solutions are under: [Challenges](./Challenges)
 - [x] Arrays → [Folder](./Challenges/Part1-TheBasics/Arrays)
   - [x] ReplicatorOfDTo → [Folder](./Challenges/Part1-TheBasics/Arrays/ReplicatorOfDTo)
   - [x] TheLawsOfFreach → [Folder](./Challenges/Part1-TheBasics/Arrays/TheLawsOfFreach)
-- [ ] Methods → [Folder](./Challenges/Part1-TheBasics/Methods)
-  - [ ] Countdown → [Folder](./Challenges/Part1-TheBasics/Methods/Countdown)
-  - [ ] TakingANumber → [Folder](./Challenges/Part1-TheBasics/Methods/TakingANumber)
-- [ ] MemoryManagement → [Folder](./Challenges/Part1-TheBasics/MemoryManagement)
-  - [ ] HuntingTheManticore → [Folder](./Challenges/Part1-TheBasics/MemoryManagement/HuntingTheManticore)
+- [x] Methods → [Folder](./Challenges/Part1-TheBasics/Methods)
+  - [x] Countdown → [Folder](./Challenges/Part1-TheBasics/Methods/Countdown)
+  - [x] TakingANumber → [Folder](./Challenges/Part1-TheBasics/Methods/TakingANumber)
+- [x] MemoryManagement → [Folder](./Challenges/Part1-TheBasics/MemoryManagement)
+  - [x] HuntingTheManticore → [Folder](./Challenges/Part1-TheBasics/MemoryManagement/HuntingTheManticore)
 
 ### Part 2 — (Object-Oriented Programming)
 - [ ] Enumerations → [Folder](./Challenges/Part2-OOP/Enumerations)
