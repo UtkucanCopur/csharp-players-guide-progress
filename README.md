@@ -1,7 +1,7 @@
 # The C# Player’s Guide — Progress Repo
 
-**Current position:** Part 2 — (Enumerations)  
-**Last update:** 2026-01-26  
+**Current position:** Part 2 — (Tuples)  
+**Last update:** 2026-02-06  
 Solutions are under: [Challenges](./Challenges)
 
 ---
@@ -44,7 +44,7 @@ Solutions are under: [Challenges](./Challenges)
   - [x] HuntingTheManticore → [Folder](./Challenges/Part1-TheBasics/MemoryManagement/HuntingTheManticore)
 
 ### Part 2 — (Object-Oriented Programming)
-- [ ] Enumerations → [Folder](./Challenges/Part2-OOP/Enumerations)
+- [x] Enumerations → [Folder](./Challenges/Part2-OOP/Enumerations)
 - [ ] Tuples → [Folder](./Challenges/Part2-OOP/Tuples)
 - [ ] Classes → [Folder](./Challenges/Part2-OOP/Classes)
 - [ ] InformationHiding → [Folder](./Challenges/Part2-OOP/InformationHiding)
