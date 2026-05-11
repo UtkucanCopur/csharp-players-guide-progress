@@ -46,21 +46,31 @@ Solutions are under: [Challenges](./Challenges)
 ### Part 2 — (Object-Oriented Programming) 
 - [x] Enumerations → [Folder](./Challenges/Part2-OOP/Enumerations)
 - [x] Tuples → [Folder](./Challenges/Part2-OOP/Tuples)
-  - [ ] Simula'sSoup → [Folder](./Challenges/Part2-ObjectOrientedProgramming/Tuples/Simula'sSoup)
-- [ ] Classes → [Folder](./Challenges/Part2-OOP/Classes)
-  - [ ] VinFletcher'sArrows → [Folder](./Challenges/Part2-ObjectOrientedProgramming/Classes/VinFletcher'sArrows)
-- [ ] InformationHiding → [Folder](./Challenges/Part2-OOP/InformationHiding)
-  - [ ] Vin'sTrouble → [Folder](./Challenges/Part2-OOP/InformationHiding/Vin'sTrouble)
+  - [x] Simula'sSoup → [Folder](./Challenges/Part2-ObjectOrientedProgramming/Tuples/Simula'sSoup)
+- [x] Classes → [Folder](./Challenges/Part2-OOP/Classes)
+  - [x] VinFletcher'sArrows → [Folder](./Challenges/Part2-ObjectOrientedProgramming/Classes/VinFletcher'sArrows)
+- [x] InformationHiding → [Folder](./Challenges/Part2-OOP/InformationHiding)
+  - [x] Vin'sTrouble → [Folder](./Challenges/Part2-ObjectOrientedProgramming/InformationHiding/Vin'sTrouble)
 - [ ] Properties → [Folder](./Challenges/Part2-OOP/Properties)
+  - [ ] ThePropertiesOfArrows → [Folder](./Challenges/Part2-ObjectOrientedProgramming/Properties/ThePropertiesOfArrows)
 - [ ] Static → [Folder](./Challenges/Part2-OOP/Static)
+  - [ ] ArrowFactories → [Folder](./Challenges/Part2-ObjectOrientedProgramming/Static/ArrowFactories)
 - [ ] CatacombsOfTheClass → [Folder](./Challenges/Part2-OOP/CatacombsOfTheClass)
+  
 - [ ] Inheritance → [Folder](./Challenges/Part2-OOP/Inheritance)
+  
 - [ ] Polymorphism → [Folder](./Challenges/Part2-OOP/Polymorphism)
+  
 - [ ] Interfaces → [Folder](./Challenges/Part2-OOP/Interfaces)
+  
 - [ ] Structs → [Folder](./Challenges/Part2-OOP/Structs)
+  
 - [ ] Records → [Folder](./Challenges/Part2-OOP/Records)
+  
 - [ ] GenericTypes → [Folder](./Challenges/Part2-OOP/GenericTypes)
+  
 - [ ] TheFountainOfObjects → [Folder](./Challenges/Part2-OOP/TheFountainOfObjects)
+  
 - [ ] SomeUsefulTypes → [Folder](./Challenges/Part2-OOP/SomeUsefulTypes)
 ### Part 3 — (Advanced Topics)
 - [ ] ManagingLargerPrograms → [Folder](./Challenges/Part3-AdvancedTopics/ManagingLargerPrograms)
