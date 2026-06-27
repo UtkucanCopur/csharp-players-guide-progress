@@ -1,42 +1,45 @@
 ﻿
+
+
 while (true)
 {
-    Console.WriteLine("Enter your password");
-    string input = Console.ReadLine() ?? "";
-    PasswordValidator a = new PasswordValidator(input);
-    Console.WriteLine($"Your password: {a.Password.ToString()}");
+    Console.WriteLine("Enter password");
+    string password = Console.ReadLine() ?? "-1";
+    PasswordValidator.Control(password);
+
 }
-
-
 
 
 public class PasswordValidator
 {
-    public string Password { get; private set; } = "-1";
 
-    //Class içinde olmıcak password
-    public PasswordValidator(string password)
+    public PasswordValidator() { }
+
+
+    public static void Control(string password)
     {
-        if (password.Length <= 6 || password.Length >= 13)
-        {
-            Console.WriteLine("Length Problem");
-            return;
-        }
-
+        if (password.Length < 6 || password.Length > 13) return;
+        int upperIndex = 0;
+        int lowerIndex = 0;
+        int digitIndex = 0;
         foreach (char c in password)
         {
-            if (char.IsUpper(c) || char.IsLower(c) || char.IsDigit(c))
+            //Aali1241
+            if (char.IsUpper(c)) upperIndex++;
+            if (char.IsLower(c)) lowerIndex++;
+            if (char.IsDigit(c)) digitIndex++;
+            if (c == 'T' || c == '&')
             {
-                Console.WriteLine("Try again");
+                Console.WriteLine("Invalid Password");
+                return;
+            }
+            if (upperIndex != 0 && lowerIndex != 0 && digitIndex != 0)
+            {
+                Console.WriteLine("Valid Password");
                 return;
             }
             
         }
-
-        if (password.Contains('T') || password.Contains('&')) return;
-
-        Password = password;
-
+        Console.WriteLine("Invalid password");
     }
 }
-
